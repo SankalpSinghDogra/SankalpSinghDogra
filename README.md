@@ -1,11 +1,3 @@
-- 👋 Hi, I’m @SankalpSingh
-- 👀 I’m interested in ... Everything
-- 🌱 I’m currently learning ... Data Analytics 
-- 💞️ I’m looking to collaborate on ... Projects , Freelanceing , and more.
-- 📫 How to reach me ... just contact me ( linkedin, Instagram, Telegram, WhatsApp )
-- 😄 Pronouns: ... he/him 
-- ⚡ Code Name: The Branded One - HYDRA
-# 💫 About Me:
 👋 Hi, I’m @SankalpSingh<br>👀 I’m interested in ... Everything<br>🌱 I’m currently learning ... Data Analytics<br>💞️ I’m looking to collaborate on ... Projects , Freelanceing , and more.<br>📫 How to reach me ... just contact me ( linkedin, Instagram, Telegram, WhatsApp )<br>😄 Pronouns: ... he/him<br>⚡ Code Name: The Branded One - HYDRA
 
 
